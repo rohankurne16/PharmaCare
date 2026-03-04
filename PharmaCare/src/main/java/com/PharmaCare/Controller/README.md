@@ -30,7 +30,6 @@ It helps pharmacy shopkeepers manage inventory, automate stock tracking, and str
 ### Frontend
 - HTML5
 - CSS3
-- Bootstrap
 - JavaScript
 
 ### Database
