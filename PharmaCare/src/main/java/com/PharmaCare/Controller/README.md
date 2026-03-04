@@ -64,3 +64,46 @@ This project follows MVC Architecture:
 
 ## 📂 Folder Structure
 
+PharmaCare/
+│
+├── src/
+│ ├── controller/
+│ ├── dao/
+│ ├── bean/
+│
+├── WebContent/
+│ ├── jsp/
+│ ├── css/
+│ ├── js/
+│
+├── database.sql
+└── README.md
+
+
+---
+
+## ⚙️ How To Run The Project
+
+1. Clone the repository
+2. Import into Eclipse as Dynamic Web Project
+3. Configure Apache Tomcat Server
+4. Create MySQL Database
+5. Import `database.sql`
+6. Update DB credentials in connection file
+7. Run on server
+
+---
+
+## 👨‍💻 Developed By
+
+**Rohan Kurne**  
+Java Full Stack Developer  
+
+📧 rohankurne12@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/rohan-kurne-904761294  
+🔗 GitHub: https://github.com/rohankurne16
+
+---
+
+⭐ If you found this project useful, feel free to star the repository!
+
